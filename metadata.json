@@ -1,0 +1,6 @@
+{
+  "name": "KineScript Studio",
+  "description": "Studio penulisan naskah dan produksi video AI kolaboratif dengan generator hook, b-roll otomatis, teks ke suara alami, motion graphics, manajemen aset terpusat, dan ekspor 4K.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
